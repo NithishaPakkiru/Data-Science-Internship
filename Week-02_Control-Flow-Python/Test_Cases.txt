@@ -1,0 +1,37 @@
+1. Test Case 1
+
+Input:
+   Please enter your score in exam: 45
+   
+Expected Output:
+   Grade: E
+   Don't giveup, study a bit more
+
+
+2. Test Case 2:
+
+Input: 
+      Current Hour of the day 16
+
+Expected Output:
+      It's Afternoon
+
+
+3. Test Case 3: Number Guessing game
+
+Input:
+      Enter the number: 3
+
+Expected Output: 
+      the number is too low
+      Try Again: 4
+
+
+4. Test Case 4: Grade categorizing problem
+
+Input: 
+     Please enter your score in exam: 40
+
+Expected Output: 
+     Below Average, you got below average grade in exam
+
